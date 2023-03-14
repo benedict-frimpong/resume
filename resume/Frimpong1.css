@@ -1,0 +1,51 @@
+
+html{background-image: url(IMG_0770.JPG);}
+body{ display: block;
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 1000px;
+    background: bisque;
+    box-shadow: 0 35px 55px rgba(0, 0, 0, 0.1);
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    overflow: hidden; 
+    display: block;
+    background-color: rgb(35, 47, 62);
+
+}
+nav ul a{
+    color: #fff;
+    width: 25%; 
+    float:left; 
+    font-size: 20px; 
+    text-decoration: none; 
+    text-align: center;}
+nav ul li{
+    display: block;
+}
+main{
+    margin-top: 60px;
+}
+hr{
+    width: 50%;
+}
+img{
+    float: right;
+    margin-left: auto;
+    margin-right: 20px;
+}
+h1{font-weight: 600;
+    text-align: center;
+}
+p{
+    font-size: 2em;
+    margin-left: 10px;
+}
+footer{
+    display: block;
+    color: beige;
+  
+}
